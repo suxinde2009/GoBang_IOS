@@ -1,0 +1,348 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18667B651727BCF70071806E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18667B621727BCF70071806E /* Default-568h@2x.png */; };
+		18667B661727BCF70071806E /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 18667B631727BCF70071806E /* Default.png */; };
+		18667B671727BCF70071806E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18667B641727BCF70071806E /* Default@2x.png */; };
+		18C6BB0E1727B25E000F395F /* icon144.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C6BB0D1727B25E000F395F /* icon144.png */; };
+		18C6BB101727B299000F395F /* icon72.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C6BB0F1727B299000F395F /* icon72.png */; };
+		18C6BB121727B7EA000F395F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C6BB111727B7EA000F395F /* Default.png */; };
+		18C6BB141727B7F0000F395F /* Default@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C6BB131727B7F0000F395F /* Default@2X.png */; };
+		18DD4E12171D2042004FF0D6 /* Evaluate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18DD4E0E171D2041004FF0D6 /* Evaluate.cpp */; };
+		18DD4E13171D2042004FF0D6 /* Search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18DD4E10171D2041004FF0D6 /* Search.cpp */; };
+		1F73373E16ECB6CD0020AF0E /* ChessBoardView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1F73373D16ECB6CD0020AF0E /* ChessBoardView.mm */; };
+		1F73374A16ECF4EC0020AF0E /* GoBangViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1F73374916ECF4EB0020AF0E /* GoBangViewController.mm */; };
+		1F96676316ADA37300F5F027 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F96676216ADA37300F5F027 /* UIKit.framework */; };
+		1F96676516ADA37300F5F027 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F96676416ADA37300F5F027 /* Foundation.framework */; };
+		1F96676716ADA37300F5F027 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F96676616ADA37300F5F027 /* CoreGraphics.framework */; };
+		1F96676D16ADA37300F5F027 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F96676B16ADA37300F5F027 /* InfoPlist.strings */; };
+		1F96676F16ADA37300F5F027 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F96676E16ADA37300F5F027 /* main.m */; };
+		1F96677316ADA37300F5F027 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F96677216ADA37300F5F027 /* AppDelegate.m */; };
+		1F96678116ADA3E300F5F027 /* ChessMan.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1F96678016ADA3E300F5F027 /* ChessMan.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		18667B621727BCF70071806E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		18667B631727BCF70071806E /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		18667B641727BCF70071806E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		18C6BB0D1727B25E000F395F /* icon144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon144.png; sourceTree = "<group>"; };
+		18C6BB0F1727B299000F395F /* icon72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon72.png; sourceTree = "<group>"; };
+		18C6BB111727B7EA000F395F /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		18C6BB131727B7F0000F395F /* Default@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2X.png"; sourceTree = "<group>"; };
+		18DD4E0E171D2041004FF0D6 /* Evaluate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Evaluate.cpp; sourceTree = "<group>"; };
+		18DD4E0F171D2041004FF0D6 /* Evaluate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Evaluate.h; sourceTree = "<group>"; };
+		18DD4E10171D2041004FF0D6 /* Search.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Search.cpp; sourceTree = "<group>"; };
+		18DD4E11171D2041004FF0D6 /* Search.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Search.h; sourceTree = "<group>"; };
+		1F73373C16ECB6CC0020AF0E /* ChessBoardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChessBoardView.h; sourceTree = "<group>"; };
+		1F73373D16ECB6CD0020AF0E /* ChessBoardView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ChessBoardView.mm; sourceTree = "<group>"; };
+		1F73374816ECF4EA0020AF0E /* GoBangViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoBangViewController.h; sourceTree = "<group>"; };
+		1F73374916ECF4EB0020AF0E /* GoBangViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GoBangViewController.mm; sourceTree = "<group>"; };
+		1F96675E16ADA37300F5F027 /* MyGobang.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGobang.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F96676216ADA37300F5F027 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1F96676416ADA37300F5F027 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1F96676616ADA37300F5F027 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1F96676A16ADA37300F5F027 /* GoBang_IOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoBang_IOS-Info.plist"; sourceTree = "<group>"; };
+		1F96676C16ADA37300F5F027 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1F96676E16ADA37300F5F027 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1F96677016ADA37300F5F027 /* GoBang_IOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoBang_IOS-Prefix.pch"; sourceTree = "<group>"; };
+		1F96677116ADA37300F5F027 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1F96677216ADA37300F5F027 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1F96677F16ADA3E300F5F027 /* ChessMan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChessMan.h; sourceTree = "<group>"; };
+		1F96678016ADA3E300F5F027 /* ChessMan.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ChessMan.mm; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1F96675B16ADA37300F5F027 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F96676316ADA37300F5F027 /* UIKit.framework in Frameworks */,
+				1F96676516ADA37300F5F027 /* Foundation.framework in Frameworks */,
+				1F96676716ADA37300F5F027 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1F96675316ADA37300F5F027 = {
+			isa = PBXGroup;
+			children = (
+				18C6BB131727B7F0000F395F /* Default@2X.png */,
+				18C6BB0D1727B25E000F395F /* icon144.png */,
+				18C6BB0F1727B299000F395F /* icon72.png */,
+				18C6BB111727B7EA000F395F /* Default.png */,
+				1F96676816ADA37300F5F027 /* GoBang_IOS */,
+				1F96676116ADA37300F5F027 /* Frameworks */,
+				1F96675F16ADA37300F5F027 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1F96675F16ADA37300F5F027 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1F96675E16ADA37300F5F027 /* MyGobang.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1F96676116ADA37300F5F027 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1F96676216ADA37300F5F027 /* UIKit.framework */,
+				1F96676416ADA37300F5F027 /* Foundation.framework */,
+				1F96676616ADA37300F5F027 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1F96676816ADA37300F5F027 /* GoBang_IOS */ = {
+			isa = PBXGroup;
+			children = (
+				1F96677116ADA37300F5F027 /* AppDelegate.h */,
+				1F96677216ADA37300F5F027 /* AppDelegate.m */,
+				1F73374816ECF4EA0020AF0E /* GoBangViewController.h */,
+				1F73374916ECF4EB0020AF0E /* GoBangViewController.mm */,
+				1F96678816ADA55900F5F027 /* Model */,
+				1F96676916ADA37300F5F027 /* Supporting Files */,
+			);
+			path = GoBang_IOS;
+			sourceTree = "<group>";
+		};
+		1F96676916ADA37300F5F027 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				18667B621727BCF70071806E /* Default-568h@2x.png */,
+				18667B631727BCF70071806E /* Default.png */,
+				18667B641727BCF70071806E /* Default@2x.png */,
+				1F96676A16ADA37300F5F027 /* GoBang_IOS-Info.plist */,
+				1F96676B16ADA37300F5F027 /* InfoPlist.strings */,
+				1F96676E16ADA37300F5F027 /* main.m */,
+				1F96677016ADA37300F5F027 /* GoBang_IOS-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1F96678816ADA55900F5F027 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18DD4E0E171D2041004FF0D6 /* Evaluate.cpp */,
+				18DD4E0F171D2041004FF0D6 /* Evaluate.h */,
+				18DD4E10171D2041004FF0D6 /* Search.cpp */,
+				18DD4E11171D2041004FF0D6 /* Search.h */,
+				1F73373C16ECB6CC0020AF0E /* ChessBoardView.h */,
+				1F73373D16ECB6CD0020AF0E /* ChessBoardView.mm */,
+				1F96677F16ADA3E300F5F027 /* ChessMan.h */,
+				1F96678016ADA3E300F5F027 /* ChessMan.mm */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1F96675D16ADA37300F5F027 /* GoBang_IOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1F96677C16ADA37300F5F027 /* Build configuration list for PBXNativeTarget "GoBang_IOS" */;
+			buildPhases = (
+				1F96675A16ADA37300F5F027 /* Sources */,
+				1F96675B16ADA37300F5F027 /* Frameworks */,
+				1F96675C16ADA37300F5F027 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GoBang_IOS;
+			productName = GoBang_IOS;
+			productReference = 1F96675E16ADA37300F5F027 /* MyGobang.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1F96675516ADA37300F5F027 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Su XinDe";
+			};
+			buildConfigurationList = 1F96675816ADA37300F5F027 /* Build configuration list for PBXProject "GoBang_IOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1F96675316ADA37300F5F027;
+			productRefGroup = 1F96675F16ADA37300F5F027 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1F96675D16ADA37300F5F027 /* GoBang_IOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1F96675C16ADA37300F5F027 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F96676D16ADA37300F5F027 /* InfoPlist.strings in Resources */,
+				18C6BB0E1727B25E000F395F /* icon144.png in Resources */,
+				18C6BB101727B299000F395F /* icon72.png in Resources */,
+				18C6BB121727B7EA000F395F /* Default.png in Resources */,
+				18C6BB141727B7F0000F395F /* Default@2X.png in Resources */,
+				18667B651727BCF70071806E /* Default-568h@2x.png in Resources */,
+				18667B661727BCF70071806E /* Default.png in Resources */,
+				18667B671727BCF70071806E /* Default@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1F96675A16ADA37300F5F027 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F96676F16ADA37300F5F027 /* main.m in Sources */,
+				1F96677316ADA37300F5F027 /* AppDelegate.m in Sources */,
+				1F96678116ADA3E300F5F027 /* ChessMan.mm in Sources */,
+				1F73373E16ECB6CD0020AF0E /* ChessBoardView.mm in Sources */,
+				1F73374A16ECF4EC0020AF0E /* GoBangViewController.mm in Sources */,
+				18DD4E12171D2042004FF0D6 /* Evaluate.cpp in Sources */,
+				18DD4E13171D2042004FF0D6 /* Search.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1F96676B16ADA37300F5F027 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1F96676C16ADA37300F5F027 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1F96677A16ADA37300F5F027 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: XinDe Su (Q6Q38S862J)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: XinDe Su (Q6Q38S862J)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "D86121EE-8A9B-42BF-8CCE-7962D1D4E442";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D86121EE-8A9B-42BF-8CCE-7962D1D4E442";
+				SDKROOT = iphoneos6.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1F96677B16ADA37300F5F027 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: XinDe Su (CVWL76VY9C)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: XinDe Su (CVWL76VY9C)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "9C204401-B15C-4ABF-83D1-2536357B602A";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "AE8C92D9-DA34-4810-ABFE-0FBEE9A783C4";
+				SDKROOT = iphoneos6.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1F96677D16ADA37300F5F027 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoBang_IOS/GoBang_IOS-Prefix.pch";
+				INFOPLIST_FILE = "GoBang_IOS/GoBang_IOS-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = MyGobang;
+				TARGETED_DEVICE_FAMILY = 2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1F96677E16ADA37300F5F027 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoBang_IOS/GoBang_IOS-Prefix.pch";
+				INFOPLIST_FILE = "GoBang_IOS/GoBang_IOS-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = MyGobang;
+				TARGETED_DEVICE_FAMILY = 2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1F96675816ADA37300F5F027 /* Build configuration list for PBXProject "GoBang_IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F96677A16ADA37300F5F027 /* Debug */,
+				1F96677B16ADA37300F5F027 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1F96677C16ADA37300F5F027 /* Build configuration list for PBXNativeTarget "GoBang_IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F96677D16ADA37300F5F027 /* Debug */,
+				1F96677E16ADA37300F5F027 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1F96675516ADA37300F5F027 /* Project object */;
+}
